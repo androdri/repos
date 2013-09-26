@@ -1,4 +1,17 @@
 Para colaborar!!
+<<<<<<< HEAD
 danando el archivo
 
 A ver si lo daño
+=======
+<<<<<<< HEAD
+Que bonito el archivo!
+
+Hola Paul!
+
+**********
+
+=======
+danando el archivo
+>>>>>>> 458a06503a8a603aa513ba9e996b4bd3725a75b1
+>>>>>>> 97e41a5d51c404a59b7cf6d6245a27ff29bbcd09
