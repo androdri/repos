@@ -1,7 +1,11 @@
 Para colaborar!!
+<<<<<<< HEAD
 Que bonito el archivo!
 
 Hola Paul!
 
 **********
 
+=======
+danando el archivo
+>>>>>>> 458a06503a8a603aa513ba9e996b4bd3725a75b1
